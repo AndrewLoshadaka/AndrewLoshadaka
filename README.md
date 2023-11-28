@@ -1,5 +1,7 @@
-### Hi there 👋
-
+## Hi there 👋
+### About me
+-I'm currently studying at the [SUAI](https://guap.ru/en)
+-I'm currently learning Java
 <!--
 **AndrewLoshadaka/AndrewLoshadaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
