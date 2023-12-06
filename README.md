@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Andrew 👋
 ### About me
-- I'm currently studying at the [SUAI](https://guap.ru/en)
-- I'm currently learning Java
-- My tg [@andrew_k2003](https://t.me/andrew_k2003)
+- 🔭 I'm currently studying at the [SUAI](https://guap.ru/en)
+- 🌱 I'm currently learning Java
+- 💬 My tg [@andrew_k2003](https://t.me/andrew_k2003)
+- 📚 My [resume](https://disk.yandex.ru/d/ZIKVFw3-LX2MnA)
 <!--
 **AndrewLoshadaka/AndrewLoshadaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
