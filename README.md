@@ -1,4 +1,7 @@
-## Hi there, I'm Andrew 👋
+<div id="header" align="center">
+    <h1>Hi there, I'm  Andrew </h1>
+</div>
+
 ### About me
 - 🔭 I'm currently studying at the [SUAI](https://guap.ru/en)
 - 🌱 I'm currently learning Java
