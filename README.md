@@ -11,16 +11,11 @@
 </div>
 
 ### About me
-I am a Junior Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Junior Java Developer from Russia.
 - 🔭 I'm currently studying at the [SUAI](https://guap.ru/en)
 - 🌱 I'm currently learning Java
 - 📚 My [resume](https://disk.yandex.ru/i/m52YlT-ZQhL0IQ)
-- :ru:
 
- <div id="socials" align="center">
-    <a href="https://t.me/andrew_k2003">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</div>
 
 - ### Languages and tools
 
