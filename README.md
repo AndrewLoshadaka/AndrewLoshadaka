@@ -33,8 +33,8 @@ I am a Junior Java Developer from Russia.
 ### My stat
 
 <div id="stat" align="left">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewLoshadaka&theme=github_dark"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewLoshadaka&layout=compact&theme=vision-friendly-dark"/>&nbsp;
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrewOldGuapchich&theme=github_dark"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewOldGuapchich&layout=compact&theme=vision-friendly-dark"/>&nbsp;
 </div>
 
   
